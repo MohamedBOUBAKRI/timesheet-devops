@@ -17,7 +17,7 @@ public class UserServiceImpl implements IUserService {
 	UserRepository userRepository;
 
 	private static final Logger l = LogManager.getLogger(UserServiceImpl.class);
-	// cmt
+	// cmt2
  	
 	@Override
 	public List<User> retrieveAllUsers() { 
